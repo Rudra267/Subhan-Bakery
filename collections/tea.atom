@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cafeniloufer.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cafeniloufer.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cafeniloufer.com/collections/tea.atom"/>
+  <title>Café Niloufer</title>
+  <updated>2021-03-11T11:58:32+05:30</updated>
+  <author>
+    <name>Café Niloufer</name>
+  </author>
+  <entry>
+    <id>https://cafeniloufer.com/products/6439982006423</id>
+    <published>2021-03-11T11:58:32+05:30</published>
+    <updated>2021-03-11T11:58:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/niloufer-platinum-tea-powder"/>
+    <title>Niloufer Platinum Tea Powder</title>
+    <s:type>Tea Powder</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/platinum.jpg?v=1693485455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Tea Powder<br>
+        <strong>Price: </strong>
+            175.00 - 350.00
+            <a href="https://cafeniloufer.com/products/niloufer-platinum-tea-powder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Unique in taste, brimming with refreshing aromatics our Platinum CTC Leaf Tea is the perfect mood uplifter to help you refresh, rejuvenate and reboot your senses. Blended to perfection, our Platinum Tea is just right for your everyday relaxation fix.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Platinum Tea</s:tag>
+    <s:tag>Super Dust</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Powder</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6439982006423</id>
+      <title>250gms</title>
+      <s:price currency="INR">175.00</s:price>
+      <s:sku>GT01OL002</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6439982006423</id>
+      <title>500gms</title>
+      <s:price currency="INR">350.00</s:price>
+      <s:sku>GT01OL003</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6439966900375</id>
+    <published>2021-03-11T11:58:32+05:30</published>
+    <updated>2021-03-11T11:58:32+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/niloufer-double-delight-tea-powder"/>
+    <title>Niloufer Double Delight Tea Powder</title>
+    <s:type>Tea Powder</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/NilouferDelightPowder-1.jpg?v=1693485421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Tea Powder<br>
+        <strong>Price: </strong>
+            150.00 - 300.00
+            <a href="https://cafeniloufer.com/products/niloufer-double-delight-tea-powder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">A beautiful blend of dust and leaves, our Double Delight Tea is the perfect amalgamation of strong flavour and stunning colour. Freshly hand picked tea leaves are fused to perfection, for an intense taste. Doubling up the refreshment, Niloufer’s Double Delight is all you need to feel alive and kicking.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Platinum Tea</s:tag>
+    <s:tag>Super Dust</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6439966900375</id>
+      <title>250gms</title>
+      <s:price currency="INR">150.00</s:price>
+      <s:sku>GT02OL002</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6439966900375</id>
+      <title>500gms</title>
+      <s:price currency="INR">300.00</s:price>
+      <s:sku>GT02OL003</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6439953694871</id>
+    <published>2021-03-11T11:58:31+05:30</published>
+    <updated>2021-03-11T11:58:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/niloufer-supreme-dust-tea-powder"/>
+    <title>Niloufer Supreme Tea Powder</title>
+    <s:type>Tea Powder</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/files/NilouferSupremePack_500g-01.jpg?v=1727686283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Tea Powder<br>
+        <strong>Price: </strong>
+            150.00 - 300.00
+            <a href="https://cafeniloufer.com/products/niloufer-supreme-dust-tea-powder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">Bold, brisk, and bursting with flavor—Cafe Niloufer Supreme Tea  is the perfect pick-me-up for any moment of the day. Expertly blended for a strong taste and refreshing aroma, this tea invigorates your senses with every sip. Whether you need an energizing start or a rejuvenating break, Supreme Tea is your go-to for a perfectly brewed cup of strength and refreshment.</span></p>
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Platinum Tea</s:tag>
+    <s:tag>Super Dust</s:tag>
+    <s:tag>Tea</s:tag>
+    <s:tag>Tea Powder</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6439953694871</id>
+      <title>250gms</title>
+      <s:price currency="INR">150.00</s:price>
+      <s:sku>GT03OL002</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6439953694871</id>
+      <title>500gms</title>
+      <s:price currency="INR">300.00</s:price>
+      <s:sku>GT03OL003</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cafeniloufer.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cafeniloufer.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cafeniloufer.com/collections/chocolates.atom"/>
+  <title>Café Niloufer</title>
+  <updated>2021-02-09T12:54:12+05:30</updated>
+  <author>
+    <name>Café Niloufer</name>
+  </author>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433237696663</id>
+    <published>2021-02-09T12:54:12+05:30</published>
+    <updated>2021-02-09T12:54:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/choco-rocks"/>
+    <title>Choco Rocks</title>
+    <s:type>Chocolates</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/Choco-Rocks_63878898-b6dd-496d-ab8c-d7ae5daa15fc.jpg?v=1619673021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Chocolates<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Enrobed in scrumptious milk chocolate, the richness of almonds and cashews make the perfect, decadent bite size treat! Celebrate your finest moments, emotions and feelings with your loved ones with our Emotions Choco Rocks!</span><br data-mce-fragment="1">
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chocolates</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433237696663</id>
+      <title>200gms</title>
+      <s:price currency="INR">320.00</s:price>
+      <s:sku>CC01OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

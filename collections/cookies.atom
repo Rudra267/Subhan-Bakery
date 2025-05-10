@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cafeniloufer.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cafeniloufer.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cafeniloufer.com/collections/cookies.atom"/>
+  <title>Café Niloufer</title>
+  <updated>2023-08-07T18:22:37+05:30</updated>
+  <author>
+    <name>Café Niloufer</name>
+  </author>
+  <entry>
+    <id>https://cafeniloufer.com/products/8042678452375</id>
+    <published>2023-08-07T18:22:37+05:30</published>
+    <updated>2023-08-07T18:22:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/coconut-biscuits"/>
+    <title>Coconut biscuits</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/files/CoconutCookies.png?v=1691412758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A heavenly blend of </span><span class="il" data-mce-fragment="1">coconut</span><span data-mce-fragment="1">'s tropical sweetness, enrobed in a golden-brown crust that crumbles ever so delicately with each nibble.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/8042678452375</id>
+      <title>Default Title</title>
+      <s:price currency="INR">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/8041873244311</id>
+    <published>2023-08-04T17:34:56+05:30</published>
+    <updated>2023-08-04T17:34:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/palmiers"/>
+    <title>Palmiers</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/files/Palmier.png?v=1691150698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These delightfully flaky &amp; buttery French treats are perfect for a sweet snack-time indulgence.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/8041873244311</id>
+      <title>Default Title</title>
+      <s:price currency="INR">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/7759540191383</id>
+    <published>2022-08-30T13:07:47+05:30</published>
+    <updated>2022-08-30T13:07:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/plain-khari-250-gms"/>
+    <title>Plain Khari [250 Gms]</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Café Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/files/PlainKhari_800x_f8e63789-fb63-4e5f-9e16-6790cce7a433.jpg?v=1691412939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Café Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Plain Puff Pastry Sticks Go Well With Tea</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/7759540191383</id>
+      <title>Default Title</title>
+      <s:price currency="INR">175.00</s:price>
+      <s:sku>RS13OL501</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/7707117125783</id>
+    <published>2022-07-27T12:01:06+05:30</published>
+    <updated>2022-07-27T12:01:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/fruit-biscuits-premium-pack"/>
+    <title>Fruit Biscuits Premium Pack</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Café Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/FruitBiscuit_38a57882-b379-493b-beb6-564f1679ad82.jpg?v=1658903467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Café Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Packed with chewy tooty fruities, our delicious Fruit Biscuits are perfected to pull one into nostalgia. Taking you back in time, these sweet biscuits melt-in-mouth and are supremely loved by all.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biscuits</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Hyderabad Biscuits</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/7707117125783</id>
+      <title>Default Title</title>
+      <s:price currency="INR">500.00</s:price>
+      <s:sku>ES03OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6485141586071</id>
+    <published>2021-02-22T18:05:18+05:30</published>
+    <updated>2021-02-22T18:05:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/osmania-biscuits-premium-pack"/>
+    <title>Osmania Biscuits Premium Pack</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/files/OsmaniaCookies-11693.jpg?v=1709786968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-weight: 400;">Hyderabad’s first choice to go with tea, the mighty Osmania Biscuit is flakey, buttery and is made to perfection. Balancing sweet with the right amount of saltiness, you can’t stop at one. Loved by all, it is the perfect accompaniment with a hot cup of tea.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Authentic Biscuits</s:tag>
+    <s:tag>Biscuits</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Crispy Biscuits</s:tag>
+    <s:tag>Evening Snack</s:tag>
+    <s:tag>Hyderabad Biscuits</s:tag>
+    <s:tag>Niloufer Biscuits</s:tag>
+    <s:tag>Osmania Biscuits</s:tag>
+    <s:tag>Premium Biscuits</s:tag>
+    <s:tag>Salt biscuits</s:tag>
+    <s:tag>Tasty Biscuits</s:tag>
+    <s:tag>Tea Biscuits</s:tag>
+    <s:tag>Tea Snacks</s:tag>
+    <s:tag>Tea Time</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6485141586071</id>
+      <title>Default Title</title>
+      <s:price currency="INR">450.00</s:price>
+      <s:sku>ES01OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6485009924247</id>
+    <published>2021-02-22T17:19:52+05:30</published>
+    <updated>2021-02-22T17:19:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/dry-fruit-premium-biscuits"/>
+    <title>Dry Fruit Biscuits Premium Pack</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/DryFruitBiscuitsPremiumPack.jpg?v=1619673023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            725.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">A mouthful of richness made with authentic ingredients, our delicious Dry Fruit Biscuits are the perfect treat. Combining the richness of exemplary dry fruits with a heritage recipe these biscuits serve a delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter Biscuits</s:tag>
+    <s:tag>Butter Cookies</s:tag>
+    <s:tag>Chai</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Dry Fruit Biscuits</s:tag>
+    <s:tag>Fruit Biscuits</s:tag>
+    <s:tag>Healthy Biscuits</s:tag>
+    <s:tag>Hyderabad</s:tag>
+    <s:tag>Hyderabad Biscuits</s:tag>
+    <s:tag>Niloufer Biscuits</s:tag>
+    <s:tag>Nut Biscuits</s:tag>
+    <s:tag>Nuts</s:tag>
+    <s:tag>Nuts And Fruits</s:tag>
+    <s:tag>Osmania Biscuts</s:tag>
+    <s:tag>Rich Biscuits</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6485009924247</id>
+      <title>Default Title</title>
+      <s:price currency="INR">725.00</s:price>
+      <s:sku>ES02OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433213841559</id>
+    <published>2021-02-09T12:47:08+05:30</published>
+    <updated>2021-02-09T12:47:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/almond-sticks-biscuits"/>
+    <title>Almond Sticks Biscuits (250 Gms)</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/Almond-Sticks-Biscuits_a41235b0-b338-4b75-90d4-94790ae17354.jpg?v=1619673021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">With an expertise in baking the best biscuits and cookies, we bring to you the super yummy buttery, Almond Sticks. These sticks are best relished with tea or coffee and will definitely leave you wanting for more!</span><br data-mce-fragment="1">
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433213841559</id>
+      <title>Default Title</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku>ES03OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433208828055</id>
+    <published>2021-02-09T12:44:07+05:30</published>
+    <updated>2021-02-09T12:44:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/raagi-biscuits"/>
+    <title>Ragi Biscuits</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/Raagi.jpg?v=1647518262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Giving you your delicious dose of rich fibre and wholesome goodness, Niloufer churns out delicious Ragi Biscuits. These biscuits are best enjoyed with tea or coffee and add to your healthy points.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433208828055</id>
+      <title>Default Title</title>
+      <s:price currency="INR">230.00</s:price>
+      <s:sku>RS11OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433204863127</id>
+    <published>2021-02-09T12:41:55+05:30</published>
+    <updated>2021-02-09T12:41:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/salt-biscuits"/>
+    <title>Salt Biscuits</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/SaltCookies.jpg?v=1647518278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            140.00 - 260.00
+            <a href="https://cafeniloufer.com/products/salt-biscuits">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">One of the most iconic, secret recipes from Niloufer. Our salty, delicious Salt Biscuits are delicately sprinkled with salt crystals and have a huge fan base. Popularly enjoyed with the afternoon cup of tea, these biscuits are a definite must-have.</span><br data-mce-fragment="1">
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433204863127</id>
+      <title>150gms</title>
+      <s:price currency="INR">140.00</s:price>
+      <s:sku>RS10OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433204863127</id>
+      <title>300gms</title>
+      <s:price currency="INR">260.00</s:price>
+      <s:sku>RS10OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433164099735</id>
+    <published>2021-02-09T12:29:15+05:30</published>
+    <updated>2021-02-09T12:29:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/chocochip-osmania-biscuits"/>
+    <title>Chocochip Osmania Biscuits</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/OsmaniaChocolateChip.jpg?v=1647517965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            165.00 - 330.00
+            <a href="https://cafeniloufer.com/products/chocochip-osmania-biscuits">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Taking the quintessential Osmania Biscuits to the next level, Niloufer adds a chocolate-y twist! Titillate your taste buds with our delectable Chocochip Osmania Biscuits, perfect for after school snacks, tea time or even a quick bite to kill your hunger pangs.</span><br data-mce-fragment="1">
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433164099735</id>
+      <title>200gms</title>
+      <s:price currency="INR">165.00</s:price>
+      <s:sku>RS09OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433164099735</id>
+      <title>400gms</title>
+      <s:price currency="INR">330.00</s:price>
+      <s:sku>RS09OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433145880727</id>
+    <published>2021-02-09T12:23:35+05:30</published>
+    <updated>2021-02-09T12:23:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/honey-oats-cookies"/>
+    <title>Honey Oats Cookies</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/files/Oatmeal-Cookies.jpg?v=1706181006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            125.00 - 480.00
+            <a href="https://cafeniloufer.com/products/honey-oats-cookies">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">The tarty sweetness of the honey folded in with the crunch of wholesome oats makes it an unbeatable combination. Our Honey Oats Cookies are one of the best sellers and are often preferred with breakfast!</span><br data-mce-fragment="1">
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433145880727</id>
+      <title>75gms</title>
+      <s:price currency="INR">125.00</s:price>
+      <s:sku>RS08OL075</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433145880727</id>
+      <title>200gms</title>
+      <s:price currency="INR">240.00</s:price>
+      <s:sku>RS08OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433145880727</id>
+      <title>400gms</title>
+      <s:price currency="INR">480.00</s:price>
+      <s:sku>RS08OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433138638999</id>
+    <published>2021-02-09T12:19:13+05:30</published>
+    <updated>2021-02-09T12:19:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/melting-moments-cookies"/>
+    <title>Melting Moments Cookies</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/MeltingMoments.jpg?v=1647518169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            200.00 - 400.00
+            <a href="https://cafeniloufer.com/products/melting-moments-cookies">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Buttery, crumbly deliciousness is packed in a bite-sized treat. Our drool worthy Melting Moments Cookies are aptly named after their beautiful melt-in-mouth texture. These corn flakes coated cookies are an absolute delight with tea or coffee! </span><br data-mce-fragment="1">
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433138638999</id>
+      <title>200gms</title>
+      <s:price currency="INR">200.00</s:price>
+      <s:sku>RS07OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433138638999</id>
+      <title>400gms</title>
+      <s:price currency="INR">400.00</s:price>
+      <s:sku>RS07OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433119699095</id>
+    <published>2021-02-09T12:14:59+05:30</published>
+    <updated>2021-02-09T12:14:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/choco-chip-cookies"/>
+    <title>Double Chocochip Cookies</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/ChocoChip.jpg?v=1647518005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            120.00 - 500.00
+            <a href="https://cafeniloufer.com/products/choco-chip-cookies">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Made with pure cocoa, these exquisite cookies are a Niloufer special! Crumbly, buttery, and decadent, our Chocolate Chip Cookies are perfect to dunk in a cold glass of milk, as a post-meal dessert, or even an apt company when you’re stuck in traffic, Munch on!</span><br data-mce-fragment="1">
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433119699095</id>
+      <title>75 gms</title>
+      <s:price currency="INR">120.00</s:price>
+      <s:sku>RS06OL075</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433119699095</id>
+      <title>200gms</title>
+      <s:price currency="INR">250.00</s:price>
+      <s:sku>RS06OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433119699095</id>
+      <title>400gms</title>
+      <s:price currency="INR">500.00</s:price>
+      <s:sku>RS06OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433103216791</id>
+    <published>2021-02-09T12:08:51+05:30</published>
+    <updated>2021-02-09T12:08:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/butter-almond-cookies"/>
+    <title>Butter Almond Cookies</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/Almond.jpg?v=1647517831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            140.00 - 580.00
+            <a href="https://cafeniloufer.com/products/butter-almond-cookies">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Taste the dripping butter in every bite of our scrumptious Butter Almond Biscuits. Made with love, melted butter is folded in to add the extra butteriness along with crunchy almond chips. Experience the heavenly taste of rich butter.</span><br data-mce-fragment="1">
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433103216791</id>
+      <title>75gms</title>
+      <s:price currency="INR">140.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433103216791</id>
+      <title>200gms</title>
+      <s:price currency="INR">310.00</s:price>
+      <s:sku>RS05OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433103216791</id>
+      <title>400gms</title>
+      <s:price currency="INR">580.00</s:price>
+      <s:sku>RS05OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433066516631</id>
+    <published>2021-02-09T11:57:44+05:30</published>
+    <updated>2021-02-09T11:57:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/mutligrain-biscuits"/>
+    <title>Mutligrain Biscuits</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/Multigrain.jpg?v=1647518189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            210.00 - 420.00
+            <a href="https://cafeniloufer.com/products/mutligrain-biscuits">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Packed with the goodness of 9 grains like Oats, Corn, Rice, Almond, Sesame Seeds, Flax Seeds, Ragi, Whole Wheat, Sunflower Seeds, our yummy Multigrain Biscuits are a perfect source of rich fibre making it an ideal mid day snack!</span>
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433066516631</id>
+      <title>200gms</title>
+      <s:price currency="INR">210.00</s:price>
+      <s:sku>RS04OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433066516631</id>
+      <title>400gms</title>
+      <s:price currency="INR">420.00</s:price>
+      <s:sku>RS04OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433044791447</id>
+    <published>2021-02-09T11:52:02+05:30</published>
+    <updated>2021-02-09T11:52:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/fruit-biscuits"/>
+    <title>Fruit Biscuits</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/FruitBiscuit.jpg?v=1647518095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            180.00 - 370.00
+            <a href="https://cafeniloufer.com/products/fruit-biscuits">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Packed with chewy tooty fruities, our delicious Fruit Biscuits are perfected to pull one into nostalgia. Taking you back in time, these sweet biscuits melt-in-mouth and are supremely loved by all.</span><br data-mce-fragment="1">
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433044791447</id>
+      <title>200gms</title>
+      <s:price currency="INR">180.00</s:price>
+      <s:sku>RS03OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433044791447</id>
+      <title>400gms</title>
+      <s:price currency="INR">370.00</s:price>
+      <s:sku>RS03OL400</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6433012613271</id>
+    <published>2021-02-09T11:42:03+05:30</published>
+    <updated>2021-02-09T11:42:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/dry-fruit-biscuits"/>
+    <title>Dry Fruit Biscuits</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/DryFruit.jpg?v=1647518037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            140.00 - 600.00
+            <a href="https://cafeniloufer.com/products/dry-fruit-biscuits">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">A mouthful of richness made with authentic ingredients, our delicious Dry Fruit Biscuits are the perfect treat. Combining the richness of exemplary dry fruits with a heritage recipe these biscuits serve a delight.</span></p>
+<p><style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433012613271</id>
+      <title>75gms</title>
+      <s:price currency="INR">140.00</s:price>
+      <s:sku>RS02OL075</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433012613271</id>
+      <title>200gms</title>
+      <s:price currency="INR">310.00</s:price>
+      <s:sku>RS02OL200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6433012613271</id>
+      <title>400gms</title>
+      <s:price currency="INR">600.00</s:price>
+      <s:sku>RS02OL500</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/6432989184151</id>
+    <published>2021-02-09T11:31:49+05:30</published>
+    <updated>2021-02-09T11:31:49+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/osmania-biscuits"/>
+    <title>Osmania Biscuits Classic</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/products/Osmania.jpg?v=1647518239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Niloufer<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            60.00 - 260.00
+            <a href="https://cafeniloufer.com/products/osmania-biscuits">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Hyderabad’s first choice to go with tea, the mighty Osmania Biscuit is flakey, buttery, and is made to perfection. Balancing sweet with the right amount of saltiness, you can’t stop at one. Loved by all, it is the perfect accompaniment with a hot cup of tea.</span>
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookies</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6432989184151</id>
+      <title>100gms</title>
+      <s:price currency="INR">60.00</s:price>
+      <s:sku>RS01OL100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6432989184151</id>
+      <title>200gms</title>
+      <s:price currency="INR">130.00</s:price>
+      <s:sku>RS01OL200</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/6432989184151</id>
+      <title>400gms</title>
+      <s:price currency="INR">260.00</s:price>
+      <s:sku>RS01OL400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

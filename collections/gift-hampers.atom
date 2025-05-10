@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cafeniloufer.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cafeniloufer.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cafeniloufer.com/collections/gift-hampers.atom"/>
+  <title>Café Niloufer</title>
+  <updated>2023-10-31T10:49:15+05:30</updated>
+  <author>
+    <name>Café Niloufer</name>
+  </author>
+  <entry>
+    <id>https://cafeniloufer.com/products/8102039486615</id>
+    <published>2023-10-31T10:49:15+05:30</published>
+    <updated>2023-10-31T10:49:15+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/niloufer-signature-box"/>
+    <title>Niloufer Signature Box</title>
+    <s:type>Gift Hamper</s:type>
+    <s:vendor>Café Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/files/SignatureBox_Hires.png?v=1698730731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Café Niloufer<br>
+        <strong>Type: </strong>Gift Hamper<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Curated hamper of our Assorted Cookies,Peri Peri Cashews, Salted Pistachios,Chocolates, Almond Sticks, our Limited Chairman's Blend Tea Powder, and a Diya.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Hamper</s:tag>
+    <s:tag>Gift Hampers</s:tag>
+    <s:tag>Hampers</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/8102039486615</id>
+      <title>Default Title</title>
+      <s:price currency="INR">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/8102038831255</id>
+    <published>2023-10-31T10:48:00+05:30</published>
+    <updated>2023-10-31T10:48:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/niloufer-delights-box"/>
+    <title>Niloufer Delights Box</title>
+    <s:type>Gift Hamper</s:type>
+    <s:vendor>Café Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/files/DelightsBox_Hires.png?v=1698730746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Café Niloufer<br>
+        <strong>Type: </strong>Gift Hamper<br>
+        <strong>Price: </strong>
+            850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our perfect customizable assortment of Premium Cookies and any 2 of the below delights. Choose from Chocolates , Almond Sticks, Peri Peri Cashew, Salted Pistachios and our Limited Chairman's Blend Tea Powder to celebrate with your loved ones.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Hamper</s:tag>
+    <s:tag>Gift Hampers</s:tag>
+    <s:tag>Hampers</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/8102038831255</id>
+      <title>Default Title</title>
+      <s:price currency="INR">850.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cafeniloufer.com/products/8102037127319</id>
+    <published>2023-10-31T10:45:29+05:30</published>
+    <updated>2023-10-31T10:45:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://cafeniloufer.com/products/niloufer-assorted-pack"/>
+    <title>Niloufer Assorted Pack</title>
+    <s:type>Gift Hamper</s:type>
+    <s:vendor>Café Niloufer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0529/2579/2407/files/AssortedCookies_Hires.png?v=1698730757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Café Niloufer<br>
+        <strong>Type: </strong>Gift Hamper<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Discover the city's finest assortment of cookies. Our cookies are renowned for their exquisite variety, offering a delightful journey of flavors in every bite. It's the ultimate indulgence for cookie connoisseurs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Hamper</s:tag>
+    <s:tag>Gift Hampers</s:tag>
+    <s:tag>Hampers</s:tag>
+    <s:variant>
+      <id>https://cafeniloufer.com/products/8102037127319</id>
+      <title>Default Title</title>
+      <s:price currency="INR">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
