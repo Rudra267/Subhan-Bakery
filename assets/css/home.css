@@ -67,3 +67,70 @@ filter: brightness(0.7);
   background-color: #F9B231;
   color: white;
 }
+
+@media (max-width: 768px) {
+  .product-card.horizontal {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .product-image {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .product-info h3 {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
+       text-align: center;
+    display: flex;
+  }
+  .product-image{
+    margin-right: 0;
+  }
+  .order-btn{
+  padding: 5px 5px;
+  font-size: 15px;
+}
+}
+
+@media (max-width:400px){
+    .product-info p {
+    line-height: 20px;
+  }
+  .product-card.horizontal{
+    padding: 10px;
+  }
+  .product-info h3{
+    font-size: 15px;
+  }
+.order-btn{
+  padding: 5px 5px;
+  font-size: 15px;
+}
+
+}
+
+
+.hidden {
+  display: none;
+}
+
+.load-more-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0; /* Optional spacing */
+}
+
+.load-more-btn {
+  background-color: #ffa500; /* orange */
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+}
