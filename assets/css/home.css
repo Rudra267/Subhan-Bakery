@@ -134,3 +134,23 @@ filter: brightness(0.7);
   cursor: pointer;
   border-radius: 5px;
 }
+
+#google_translate_element {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  z-index: 9999;
+  background-color: white;
+  padding: 5px;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+body > .skiptranslate {
+  display: none !important;
+}
+body {
+  top: 0px !important;
+}
