@@ -148,9 +148,3 @@ filter: brightness(0.7);
 .goog-te-banner-frame.skiptranslate {
   display: none !important;
 }
-body > .skiptranslate {
-  display: none !important;
-}
-body {
-  top: 0px !important;
-}
